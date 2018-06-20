@@ -1,0 +1,55 @@
+*{
+    margin: 20px;
+    padding: 1px;
+}
+#wrapper{
+width: 950px;
+background-color: rgb(61, 61, 112);
+margin: 0px auto;
+}
+#header{
+min-height: 100px;
+background-color: red;
+color: white;
+border-radius: 25px;
+margin: 25px;
+}
+#navigation, #main_content{
+    vertical-align: top;
+}
+#navigation{
+min-height: 200px;
+width: 185px;
+background-color:rgb(7, 97, 97);
+display: inline-block;
+border-radius: 25px;
+color: aquamarine;
+text-decoration-line: underline;
+padding: 22px; 
+}
+.idnavtext{
+    margin: 3px;
+}
+li span{
+color: aquamarine;
+text-decoration-line: underline;
+}
+#main_content{
+min-height: 200px;
+width: 644px;
+margin: 0px;
+background-color: rgb(13, 24, 34);
+color:white;
+display: inline-block;
+border-radius: 25px;
+}
+#advertisement{
+min-height: 100px;
+background-color: gray;
+color: white;
+text-align: justify;
+border-radius: 25px;
+}
+p span{
+color: aquamarine;
+}
